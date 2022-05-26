@@ -1,0 +1,315 @@
+.main-container
+{
+    max-width: 1680px;
+    display: flex;
+    margin: auto;
+}
+
+.header-wrap
+{
+    margin: 30px auto 43px;
+    display: flex;
+    width: 100%;
+    flex-direction: row
+}
+
+.header-wrap__menu
+{
+    margin-top: 18px;
+    margin-left: auto;
+    display: flex;
+}
+
+.header_container
+{
+    justify-content: center;
+}
+
+.smol-header
+{
+    margin-right: 87px;
+    display: flex;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #000000;
+}
+
+.text_for_eth
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.colored-marker
+{
+    color: #EE58B6
+}
+
+.top-button
+{
+    width: 247px;
+    height: 55px;
+    left: 1433px;
+    top: 0px;
+    
+    background-color: #05090C;
+    border-radius: 4.59px
+}
+
+.middle-button
+{
+    width: 332px;
+    height: 55px;
+    left: 0px;
+    top: 251px;
+
+    background: #05090C;
+    border-radius: 4.59px;
+}
+
+.button-text
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFF
+}
+
+.banner-header
+{
+    margin-left: 0;
+    width: 745px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 100px;
+    line-height: 122.35%;
+
+    color: #000000
+
+}
+
+.banner-header__main-text
+{
+    margin: 0 auto 46;
+    display: flex;
+    
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 120%;
+    
+    color: rgba(0, 0, 0, 0.7)
+
+}
+
+.banner-image
+{
+    display: flex
+}
+
+.banner-man
+{
+    margin: 0;
+    width: 90%;
+}
+
+.problemes_text
+{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.problemes_wrap
+{
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 246px auto 124px;
+    justify-content: center;
+    background: #000;
+}
+
+.problemes-wrap_boxes
+{
+    text-align: center;
+    max-width: 354px;
+}
+
+.problemes_wrap__notebook
+{
+    padding-left: 120px;
+    padding-right: 370px;
+}
+.problemes_wrap__clock
+{
+    padding-left: 510px;
+}
+.problemes_wrap__target
+{
+    padding-right: 510px;
+}
+
+.form_image
+{
+    display: flex;
+    margin: auto;
+    align-content: center
+}
+
+.site-form_name-input
+{
+    display: block;
+    margin: 33px auto 20px
+}
+
+.site-form
+{
+    text-align: center
+}
+
+.form_card-size
+{
+    margin: auto;
+    width: 640px;
+    height: 847px;
+}
+
+.site-form_name-input
+{
+    display: block;
+    margin: 20px auto 20px;
+    width: 480px;
+    height: 64px;
+}
+
+.site-form_email-input
+{
+    display: block;
+    margin: 20px auto 20px;
+    width: 480px;
+    height: 64px;
+}
+
+.site-form_state-input
+{
+    display: block;
+    margin: 20px auto 35px;
+    width: 480px;
+    height: 64px;
+}
+
+.site-form_chekbox-input
+{
+    display: block;
+    margin: 35px auto 35px;
+    padding-left: 80px;
+    padding-right: 80px
+}
+
+.site-form_button-input
+{
+    background-color: #05090C;
+    border-radius: 4.59px;
+    width: 480px;
+    height: 64px;
+    padding-left: 80px;
+    padding-right: 80px
+}
+
+.site-form_closing-cross
+{
+    margin-top: 15px;
+    margin-right: 20px;
+    float: right
+}
+
+.form_header
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 120%;
+    text-align: center;
+
+    color: #000000;
+}
+
+.head2
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 126.06%;
+
+    color: #000000
+}
+
+.problemes__main-text
+{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 135%;
+
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.black_back
+{
+    background: #000;
+}
+
+.solutions__maim-text
+{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #FFFFFF
+}
+
+.dark-bg{
+    width: 100%;
+    height: 100%;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    background: #000000;
+    opacity: 0.9;
+}
+
+.white-back{
+    max-width: 640px;
+    height: 847px;
+    margin: 0 auto;
+    border-radius: 12px;
+    background-color: #FFFFFF
+}
